@@ -1,2 +1,2 @@
 # sanjanarepo1
-AUTHOR "SANJANA"
+AUTHOR "SANJANA VATS"
